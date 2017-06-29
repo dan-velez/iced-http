@@ -1,0 +1,16 @@
+{
+  "name": "iced-http",
+  "version": "2.0.18",
+  "description": "High level http tools using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "develnpmjs49",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-fileupload": "^0.1.3"
+  }
+}
